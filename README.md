@@ -1,3 +1,13 @@
+The Clicky Game
+
+This is a ReactJS app that was created using the Create React App. This app has multiple superhero images that listens to click events.
+The application keeps track of the user's score. The user's score is incremented when clicking an image for the first time. The user's score is reset to 0 if they click the same image more than once. Every time an image is clicked, the images rendered to the page shuffle themselves in a random order. Once the user's score is reset after an incorrect guess, the game restarts.
+
+Working App https://damp-mountain-66806.herokuapp.com/
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
