@@ -1,0 +1,60 @@
+ul {
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
+
+    background-color: #333;
+
+    position: fixed;
+
+    top: 0;
+
+    width: 100%;
+
+}
+
+
+
+
+
+li {
+
+    display: inline-block;
+
+    color: white;
+
+    text-align: center;
+
+    text-decoration: none;
+}
+
+body {
+
+    color: #ffffff;
+  
+    font-size: 24px;
+  
+  }
+  
+  
+  
+  .itemLeft {
+  
+  margin-left: 450px;
+  
+  }
+  
+  
+  
+  
+  
+  .itemRight {
+  
+  padding-left: 40px;
+  
+  }
